@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontConversion", "FontConversion\FontConversion.csproj", "{9CA643E6-F76A-4BCE-815C-8A112D9ABBE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAddControl", "FontAddControl\FontAddControl.csproj", "{50945AA0-E3C0-4562-8D37-687D4DFB7218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9CA643E6-F76A-4BCE-815C-8A112D9ABBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA643E6-F76A-4BCE-815C-8A112D9ABBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA643E6-F76A-4BCE-815C-8A112D9ABBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50945AA0-E3C0-4562-8D37-687D4DFB7218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50945AA0-E3C0-4562-8D37-687D4DFB7218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50945AA0-E3C0-4562-8D37-687D4DFB7218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50945AA0-E3C0-4562-8D37-687D4DFB7218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

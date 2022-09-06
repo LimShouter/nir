@@ -119,19 +119,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
+    "C:\\Users\\limsh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислав\\Documents\\Repos\\nir\\FontConversion\\FontConversion.csproj",
+      "projectUniqueName": "C:\\Users\\limsh\\OneDrive\\Документы\\Repos\\nir\\FontConversion\\FontConversion.csproj",
       "projectName": "FontConversion",
-      "projectPath": "C:\\Users\\Владислав\\Documents\\Repos\\nir\\FontConversion\\FontConversion.csproj",
-      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислав\\Documents\\Repos\\nir\\FontConversion\\obj\\",
+      "projectPath": "C:\\Users\\limsh\\OneDrive\\Документы\\Repos\\nir\\FontConversion\\FontConversion.csproj",
+      "packagesPath": "C:\\Users\\limsh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\limsh\\OneDrive\\Документы\\Repos\\nir\\FontConversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\limsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -176,7 +176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Владислав\\.dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

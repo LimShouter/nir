@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e9ElNPBvP1qYCHU692uQ5QjXJ9xxHbRUlwLCZJMbVTJ1BYyjELzEhkSMyXrJZ4Jg36a9GV6o70lGv7RighJigQ==",
+  "dgSpecHash": "Mvclaj/ygWZJbHYlOs4A5HhzyCmEzLZ9F4Rf6Qq5m73UMHnYIdlmjEzdB2X2DjJy83Yx01JVBL2hL0wsuGBeKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Владислав\\Documents\\Repos\\nir\\FontConversion\\FontConversion.csproj",
+  "projectFilePath": "C:\\Users\\limsh\\OneDrive\\Документы\\Repos\\nir\\FontConversion\\FontConversion.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Владислав\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.7.22375.6\\microsoft.win32.systemevents.7.0.0-preview.7.22375.6.nupkg.sha512",
-    "C:\\Users\\Владислав\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.7.22375.6\\system.drawing.common.7.0.0-preview.7.22375.6.nupkg.sha512"
+    "C:\\Users\\limsh\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.7.22375.6\\microsoft.win32.systemevents.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "C:\\Users\\limsh\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.7.22375.6\\system.drawing.common.7.0.0-preview.7.22375.6.nupkg.sha512"
   ],
   "logs": []
 }
